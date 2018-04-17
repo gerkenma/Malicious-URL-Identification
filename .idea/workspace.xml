@@ -1,32 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6648dda-32a6-4de5-b950-298f2a687db1" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/url-identification.py" beforeDir="false" afterPath="$PROJECT_DIR$/url-identification.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/url_svmlight/Day100.svm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/url_svmlight/Day101.svm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/url_svmlight/Day102.svm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/url_svmlight/Day103.svm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/url_svmlight/Day104.svm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/url_svmlight/Day105.svm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/url_svmlight/Day106.svm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/url_svmlight/Day107.svm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/url_svmlight/Day108.svm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/url_svmlight/Day109.svm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/url_svmlight/Day110.svm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/url_svmlight/Day111.svm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/url_svmlight/Day112.svm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/url_svmlight/Day113.svm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/url_svmlight/Day114.svm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/url_svmlight/Day115.svm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/url_svmlight/Day116.svm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/url_svmlight/Day117.svm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/url_svmlight/Day118.svm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/url_svmlight/Day119.svm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/url_svmlight/Day120.svm" beforeDir="false" />
-    </list>
+    <list default="true" id="f6648dda-32a6-4de5-b950-298f2a687db1" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -188,7 +163,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32985657" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32985657" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32985657" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.68057364" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32985657" />
