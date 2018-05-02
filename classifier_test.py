@@ -40,5 +40,8 @@ def classifier_test(classifier, source):
 
 
 if __name__ == "__main__":
-    clf = svm.SVC(kernel="linear")
+    # clf = svm.SVC(kernel="linear")
+    clf = neighbors.KNeighborsClassifier(n_neighbors=15)
+    # Second argument decides if full sized or trimmed files are used
+    # "url_svmlight" for full - "sample" for trimmed
     classifier_test(clf, "sample")
