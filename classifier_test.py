@@ -52,11 +52,11 @@ def classifier_test(classifier, source):
 
 if __name__ == "__main__":
     linSVM = svm.SVC(kernel="linear", probability=True, verbose=True)
-    # knn = neighbors.KNeighborsClassifier(n_neighbors=15)
-    # rfc = ensemble.RandomForestClassifier(n_estimators=8, n_jobs=-1)
-    # sgd = linear_model.SGDClassifier(loss="modified_huber", max_iter=1000, verbose=True)
+    knn = neighbors.KNeighborsClassifier(n_neighbors=15)
+    rfc = ensemble.RandomForestClassifier(n_estimators=8, n_jobs=-1)
+    sgd = linear_model.SGDClassifier(loss="modified_huber", max_iter=1000, verbose=True)
 
-    # vote = ensemble.VotingClassifier(estimators=[('svc', linSVM), ('sgd', sgd)], voting="soft", n_jobs=-1)
+    vote = ensemble.VotingClassifier(estimators=[('svc', linSVM), ('sgd', sgd)], voting="soft", n_jobs=-1)
 
     # Second argument decides if full sized or trimmed files are used
     # "url_svmlight" for full - "sample" for trimmed
